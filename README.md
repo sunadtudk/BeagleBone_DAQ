@@ -12,7 +12,7 @@ on how to save energy. One of the main issue is saving money on power,special wh
 Before the end of the year 2012,1500 street lamps around Copenhagen will be changed for light 
 sources with low power consumption. Technical and Environmental turn down the energy as a part 
 of Copenhagen goal of reducing the citys CO2 emissions by 20 percent by the end of year 2015. 
-But how much power will the new lamps comsume? And can a street lamp produce sufficient power 
+But how much power will the new lamps comsume? And can a street lamp produce sufficient power 
 even in Denmark?. Here will a low cost & lowpower Datalogger come handy. 
 The data logger is an electronic device that records earthquakes(Sensor network), 
 Wind ,daylight ,power used/produced on the street lamp over time. 
